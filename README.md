@@ -1,24 +1,8 @@
-# vue2-source-code-learning-byself
+# 说明
+本仓库的代码是基于鲨鱼哥（Big shark@LX）的`Vue2源码系列`所进行的书写。但是并未是全部的代码，感兴趣的小伙伴可以前往`稀土掘金`进行更详细的查看。
 
-## Project setup
-```
-npm install
-```
+# 鲨鱼哥个人主页
+https://juejin.cn/user/3104676570214286
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Vue2源码系列专栏
+https://juejin.cn/column/6961223264685277192
